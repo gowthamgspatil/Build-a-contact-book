@@ -10,11 +10,11 @@ Contact Book Menu
    
 Choose an option (1-6): 1
 
-Enter name: Gowtham Gs Patil
+    Enter name: Gowtham Gs Patil
 
-Enter phone number: +91 910*****56
+    Enter phone number: +91 910*****56
 
-Enter email: gowthamgshivamurthy@gmail.com
+    Enter email: gowthamgshivamurthy@gmail.com
 
 Contact added successfully.
 
